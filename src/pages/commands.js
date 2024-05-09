@@ -112,6 +112,10 @@ export default function Commands() {
                   <kbd>bye</kbd> -{" "}
                   <span className="p-color">If the word "bye" is used in a sentence, an image of a Cat Disappearing will apear.</span>
                 </li>
+                <li>
+                  <kbd>hand</kbd> -{" "}
+                  <span className="p-color">If the word "hand" is used in a sentence, an image of an "Insert Here" meme.</span>
+                </li>
 
               </ul>
             </div>
